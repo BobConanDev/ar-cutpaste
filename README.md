@@ -59,7 +59,7 @@ BASNet model (Qin & al, CVPR 2019) as an external HTTP service using this [BASNe
 
 #### Option 2: Use a community provided endpoint
 
-A public endpoint has been provided by members of the community. This is useful if you don't have your own CUDA GPU or do not want to go through the process of running the servce on your own.
+A public endpoint has been provided by members of the community. This is useful if you don't have your own CUDA GPU or do not want to go through the process of running the service on your own.
 
 Use this endpoint by launching the local server with `--basnet_service_ip http://u2net-predictor.tenant-compass.global.coreweave.com`
 
